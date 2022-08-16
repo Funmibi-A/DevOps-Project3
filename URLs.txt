@@ -1,0 +1,4 @@
+[URL01] - https://github.com/Funmibi-A/uda-people.git
+[URL02] - http://udapeople-6b8e11f5-8c2c-4a48-bd4c-817cf11757ab.s3-website-us-east-1.amazonaws.com/#/employees
+[URL03] - http://d1zytuqq551qjz.cloudfront.net/#/employees
+[URL04] - http://44.202.167.173:3030/API/STATUS
